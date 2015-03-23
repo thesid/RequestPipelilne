@@ -1,0 +1,5 @@
+C:\Users\siddharth.kosta\Desktop\DeleteTest\Sid.Pipeline\bin\Debug\Sid.Pipeline.dll
+C:\Users\siddharth.kosta\Desktop\DeleteTest\Sid.Pipeline\bin\Debug\Sid.Pipeline.pdb
+C:\Users\siddharth.kosta\Desktop\DeleteTest\Sid.Pipeline\obj\Debug\Sid.Pipeline.dll
+C:\Users\siddharth.kosta\Desktop\DeleteTest\Sid.Pipeline\obj\Debug\Sid.Pipeline.pdb
+C:\Users\siddharth.kosta\Desktop\DeleteTest\Sid.Pipeline\obj\Debug\Sid.Pipeline.csprojResolveAssemblyReference.cache
