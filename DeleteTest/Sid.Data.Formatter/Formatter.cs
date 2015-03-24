@@ -2,7 +2,6 @@
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using Sid.Pipeline.Core;
-using Sid.Types;
 
 namespace Sid.Data.Formatter
 {

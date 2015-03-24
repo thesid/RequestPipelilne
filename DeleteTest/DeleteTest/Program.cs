@@ -12,7 +12,7 @@ namespace DeleteTest
 
             var pipeline = new Pipeline()
                 .Register(new RestRequester<RequestObject, ResponseObject>())
-                .Register(new Formatter<ResponseObject, FormatResponse>());
+                .Register(new Formatter<ResponseObject, FormatResponse<ResponseObject>>());
 
             var result = pipeline.Execute(new RequestObject("http://maps.googleapis.com/maps/api/geocode/json?address=Kalewadi%20Phata", "XML"));
             var final = result.Output;

@@ -13,9 +13,7 @@ C:\Sid\RequestPipelilne\DeleteTest\Sid.Data.Formatter\bin\Debug\Sid.Data.Formatt
 C:\Sid\RequestPipelilne\DeleteTest\Sid.Data.Formatter\bin\Debug\Sid.Data.Formatter.pdb
 C:\Sid\RequestPipelilne\DeleteTest\Sid.Data.Formatter\bin\Debug\Newtonsoft.Json.dll
 C:\Sid\RequestPipelilne\DeleteTest\Sid.Data.Formatter\bin\Debug\Sid.Pipeline.dll
-C:\Sid\RequestPipelilne\DeleteTest\Sid.Data.Formatter\bin\Debug\Sid.Types.dll
 C:\Sid\RequestPipelilne\DeleteTest\Sid.Data.Formatter\bin\Debug\Sid.Pipeline.pdb
-C:\Sid\RequestPipelilne\DeleteTest\Sid.Data.Formatter\bin\Debug\Sid.Types.pdb
 C:\Sid\RequestPipelilne\DeleteTest\Sid.Data.Formatter\bin\Debug\Newtonsoft.Json.xml
 C:\Sid\RequestPipelilne\DeleteTest\Sid.Data.Formatter\obj\Debug\Sid.Data.Formatter.csprojResolveAssemblyReference.cache
 C:\Sid\RequestPipelilne\DeleteTest\Sid.Data.Formatter\obj\Debug\Sid.Data.Formatter.dll

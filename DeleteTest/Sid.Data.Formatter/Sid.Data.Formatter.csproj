@@ -35,26 +35,20 @@
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
-    <Reference Include="System.Runtime.Serialization" />
-    <Reference Include="System.Xml.Linq" />
-    <Reference Include="System.Data.DataSetExtensions" />
-    <Reference Include="Microsoft.CSharp" />
-    <Reference Include="System.Data" />
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Converter.cs" />
     <Compile Include="Formatter.cs" />
+    <Compile Include="IOutputTypesStrategy.cs" />
+    <Compile Include="JsonFormatter.cs" />
+    <Compile Include="JsonToXmlFormatter.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Sid.Pipeline\Sid.Pipeline.csproj">
       <Project>{4a009069-acff-46a5-b712-cb005974a054}</Project>
       <Name>Sid.Pipeline</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Sid.Types\Sid.Types.csproj">
-      <Project>{35e9cc33-c6b8-4baf-95ab-ff1863fd8bb6}</Project>
-      <Name>Sid.Types</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

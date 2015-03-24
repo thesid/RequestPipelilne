@@ -1,8 +1,5 @@
 ﻿using System.Collections.Generic;
-using System.Runtime.Serialization.Json;
 using System.Text;
-using System.Xml;
-using System.Xml.Linq;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using Formatting = Newtonsoft.Json.Formatting;
@@ -35,46 +32,4 @@ namespace Sid.Data.Formatter
         }
 
     }
-
-    public interface IOutputTypesStrategy
-    {
-        object Execute(string input);
-    }
-
-    public class JsonFormatter : IOutputTypesStrategy
-    {
-
-        public object Execute(string input)
-        {
-            return input;
-        }
-    }
-
-    public class JsonToXmlFormatter : IOutputTypesStrategy
-    {
-
-        public object Execute(string input)
-        {
-
-
-            string json = @"{
-  '?xml': {
-    '@version': '1.0',
-    '@standalone': 'no'
-  },
-  'root':
-" + input.Replace('"', '\'') + "}";
-
-            XmlDocument doc = (XmlDocument)JsonConvert.DeserializeXmlNode(json);
-
-            return doc;
-        }
-
-
-    }
-
-
-
-
-
 }

@@ -1,7 +1,6 @@
 ﻿using System;
-using System.Xml;
 using Sid.Pipeline.Core;
-using Sid.Types;
+
 
 namespace Sid.Rest.Caller
 {
