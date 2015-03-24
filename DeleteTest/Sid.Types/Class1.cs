@@ -17,12 +17,6 @@ namespace Sid.Types
 
     public class ResponseObject : IPipelineObject
     {
-
-        public ResponseObject()
-        {
-
-        }
-
         public object Output { get; set; }
         public object OutputType { get; set; }
     }

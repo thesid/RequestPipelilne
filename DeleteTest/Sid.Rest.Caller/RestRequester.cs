@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Xml;
 using Sid.Pipeline.Core;
 using Sid.Types;
 
@@ -13,7 +14,13 @@ namespace Sid.Rest.Caller
         public IPipelineObject Execute(IPipelineObject input)
         {
             var result = RestHelper.Get(((T)input).Output.ToString(), null, null, null, null);
-            return new { Output = result, input.OutputType } as U;
+            
+            var type = typeof(U);
+            var instObject = Activator.CreateInstance(type);
+            (instObject as U).Output = result;
+            (instObject as U).OutputType = input.OutputType;
+
+            return instObject as U;
         }
 
         public U Execute(T input)

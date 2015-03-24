@@ -15,7 +15,14 @@ namespace Sid.Data.Formatter
 
             var outputResult = Converter.Process(input.Output.ToString(), input.OutputType.ToString());
 
-            return new FormatResponse() { Output = outputResult, OutputType = input.OutputType.ToString() };
+            var type = typeof(U);
+            var instObject = Activator.CreateInstance(type);
+            (instObject as U).Output = outputResult;
+            (instObject as U).OutputType = input.OutputType;
+
+            return instObject as U;
+
+          //  return new FormatResponse() { Output = outputResult, OutputType = input.OutputType.ToString() };
         }
 
         public U Execute(T input)
