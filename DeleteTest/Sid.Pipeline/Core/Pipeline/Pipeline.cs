@@ -5,7 +5,7 @@ namespace Sid.Pipeline.Core.Pipeline
 {
     public class Pipeline : IPipeline
     {
-        private readonly List<IFilter> _filters = new List<IFilter>();
+        private readonly IList<IFilter> _filters = new List<IFilter>();
 
         public IPipelineObject Execute(IPipelineObject input)
         {

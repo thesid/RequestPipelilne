@@ -43,7 +43,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="test.xml" />
+    <Content Include="Output.xml" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Sid.Data.Formatter\Sid.Data.Formatter.csproj">

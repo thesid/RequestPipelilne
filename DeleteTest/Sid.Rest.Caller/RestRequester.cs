@@ -1,28 +1,25 @@
 ﻿using System;
 using Sid.Pipeline.Core;
 
-
 namespace Sid.Rest.Caller
 {
-
-    public class RestRequester<T, U> : IFilter<T, U>
+    public class RestRequester<T, S> : IFilter<T, S>
         where T : class, IPipelineObject
-        where U : class, IPipelineObject, new()
+        where S : class, IPipelineObject, new()
     {
-
         public IPipelineObject Execute(IPipelineObject input)
         {
             var result = RestHelper.Get(((T)input).Output.ToString(), null, null, null, null);
             
-            var type = typeof(U);
+            var type = typeof(S);
             var instObject = Activator.CreateInstance(type);
-            (instObject as U).Output = result;
-            (instObject as U).OutputType = input.OutputType;
+            (instObject as S).Output = result;
+            (instObject as S).OutputType = input.OutputType;
 
-            return instObject as U;
+            return instObject as S;
         }
 
-        public U Execute(T input)
+        public S Execute(T input)
         {
             throw new NotImplementedException();
         }

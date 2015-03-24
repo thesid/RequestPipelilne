@@ -15,7 +15,7 @@ namespace DeleteTest
                 .Register(new Formatter<ResponseObject, FormatResponse<ResponseObject>>());
 
             var result = pipeline.Execute(new RequestObject("http://maps.googleapis.com/maps/api/geocode/json?address=Kalewadi%20Phata", "XML"));
-            var final = result.Output;
+            var output = result.Output;
 
         }
     }
