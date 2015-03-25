@@ -1,0 +1,9 @@
+C:\Users\siddharth.kosta\Desktop\Request.Pipeline.Builder\Request.Formatter\bin\Debug\Request.Formatter.dll
+C:\Users\siddharth.kosta\Desktop\Request.Pipeline.Builder\Request.Formatter\bin\Debug\Request.Formatter.pdb
+C:\Users\siddharth.kosta\Desktop\Request.Pipeline.Builder\Request.Formatter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\siddharth.kosta\Desktop\Request.Pipeline.Builder\Request.Formatter\bin\Debug\Request.Pipeline.Core.dll
+C:\Users\siddharth.kosta\Desktop\Request.Pipeline.Builder\Request.Formatter\bin\Debug\Request.Pipeline.Core.pdb
+C:\Users\siddharth.kosta\Desktop\Request.Pipeline.Builder\Request.Formatter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\siddharth.kosta\Desktop\Request.Pipeline.Builder\Request.Formatter\obj\Debug\Request.Formatter.csprojResolveAssemblyReference.cache
+C:\Users\siddharth.kosta\Desktop\Request.Pipeline.Builder\Request.Formatter\obj\Debug\Request.Formatter.dll
+C:\Users\siddharth.kosta\Desktop\Request.Pipeline.Builder\Request.Formatter\obj\Debug\Request.Formatter.pdb

@@ -1,0 +1,5 @@
+C:\Users\siddharth.kosta\Desktop\Request.Pipeline.Builder\Request.Pipeline.Builder\bin\Debug\Request.Pipeline.Core.dll
+C:\Users\siddharth.kosta\Desktop\Request.Pipeline.Builder\Request.Pipeline.Builder\bin\Debug\Request.Pipeline.Core.pdb
+C:\Users\siddharth.kosta\Desktop\Request.Pipeline.Builder\Request.Pipeline.Builder\obj\Debug\Request.Pipeline.Builder.csprojResolveAssemblyReference.cache
+C:\Users\siddharth.kosta\Desktop\Request.Pipeline.Builder\Request.Pipeline.Builder\obj\Debug\Request.Pipeline.Core.dll
+C:\Users\siddharth.kosta\Desktop\Request.Pipeline.Builder\Request.Pipeline.Builder\obj\Debug\Request.Pipeline.Core.pdb

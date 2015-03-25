@@ -1,0 +1,7 @@
+C:\Users\siddharth.kosta\Desktop\Request.Pipeline.Builder\Request.Types\bin\Debug\Request.Types.dll
+C:\Users\siddharth.kosta\Desktop\Request.Pipeline.Builder\Request.Types\bin\Debug\Request.Types.pdb
+C:\Users\siddharth.kosta\Desktop\Request.Pipeline.Builder\Request.Types\bin\Debug\Request.Pipeline.Core.dll
+C:\Users\siddharth.kosta\Desktop\Request.Pipeline.Builder\Request.Types\bin\Debug\Request.Pipeline.Core.pdb
+C:\Users\siddharth.kosta\Desktop\Request.Pipeline.Builder\Request.Types\obj\Debug\Request.Types.csprojResolveAssemblyReference.cache
+C:\Users\siddharth.kosta\Desktop\Request.Pipeline.Builder\Request.Types\obj\Debug\Request.Types.dll
+C:\Users\siddharth.kosta\Desktop\Request.Pipeline.Builder\Request.Types\obj\Debug\Request.Types.pdb

@@ -1,0 +1,17 @@
+C:\Users\siddharth.kosta\Desktop\Request.Pipeline.Builder\Request.Client\bin\Debug\Request.Client.exe
+C:\Users\siddharth.kosta\Desktop\Request.Pipeline.Builder\Request.Client\bin\Debug\Request.Client.pdb
+C:\Users\siddharth.kosta\Desktop\Request.Pipeline.Builder\Request.Client\bin\Debug\Request.Formatter.dll
+C:\Users\siddharth.kosta\Desktop\Request.Pipeline.Builder\Request.Client\bin\Debug\Request.Pipeline.Core.dll
+C:\Users\siddharth.kosta\Desktop\Request.Pipeline.Builder\Request.Client\bin\Debug\Request.Requester.dll
+C:\Users\siddharth.kosta\Desktop\Request.Pipeline.Builder\Request.Client\bin\Debug\Request.Types.dll
+C:\Users\siddharth.kosta\Desktop\Request.Pipeline.Builder\Request.Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\siddharth.kosta\Desktop\Request.Pipeline.Builder\Request.Client\bin\Debug\RestSharp.dll
+C:\Users\siddharth.kosta\Desktop\Request.Pipeline.Builder\Request.Client\bin\Debug\Request.Formatter.pdb
+C:\Users\siddharth.kosta\Desktop\Request.Pipeline.Builder\Request.Client\bin\Debug\Request.Pipeline.Core.pdb
+C:\Users\siddharth.kosta\Desktop\Request.Pipeline.Builder\Request.Client\bin\Debug\Request.Requester.pdb
+C:\Users\siddharth.kosta\Desktop\Request.Pipeline.Builder\Request.Client\bin\Debug\Request.Types.pdb
+C:\Users\siddharth.kosta\Desktop\Request.Pipeline.Builder\Request.Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\siddharth.kosta\Desktop\Request.Pipeline.Builder\Request.Client\bin\Debug\RestSharp.xml
+C:\Users\siddharth.kosta\Desktop\Request.Pipeline.Builder\Request.Client\obj\Debug\Request.Client.csprojResolveAssemblyReference.cache
+C:\Users\siddharth.kosta\Desktop\Request.Pipeline.Builder\Request.Client\obj\Debug\Request.Client.exe
+C:\Users\siddharth.kosta\Desktop\Request.Pipeline.Builder\Request.Client\obj\Debug\Request.Client.pdb

@@ -1,0 +1,11 @@
+C:\Users\siddharth.kosta\Desktop\Request.Pipeline.Builder\Request.Requester\obj\Debug\Request.Requester.csprojResolveAssemblyReference.cache
+C:\Users\siddharth.kosta\Desktop\Request.Pipeline.Builder\Request.Requester\bin\Debug\Request.Requester.dll
+C:\Users\siddharth.kosta\Desktop\Request.Pipeline.Builder\Request.Requester\bin\Debug\Request.Requester.pdb
+C:\Users\siddharth.kosta\Desktop\Request.Pipeline.Builder\Request.Requester\bin\Debug\Newtonsoft.Json.dll
+C:\Users\siddharth.kosta\Desktop\Request.Pipeline.Builder\Request.Requester\bin\Debug\Request.Pipeline.Core.dll
+C:\Users\siddharth.kosta\Desktop\Request.Pipeline.Builder\Request.Requester\bin\Debug\RestSharp.dll
+C:\Users\siddharth.kosta\Desktop\Request.Pipeline.Builder\Request.Requester\bin\Debug\Request.Pipeline.Core.pdb
+C:\Users\siddharth.kosta\Desktop\Request.Pipeline.Builder\Request.Requester\bin\Debug\Newtonsoft.Json.xml
+C:\Users\siddharth.kosta\Desktop\Request.Pipeline.Builder\Request.Requester\bin\Debug\RestSharp.xml
+C:\Users\siddharth.kosta\Desktop\Request.Pipeline.Builder\Request.Requester\obj\Debug\Request.Requester.dll
+C:\Users\siddharth.kosta\Desktop\Request.Pipeline.Builder\Request.Requester\obj\Debug\Request.Requester.pdb
